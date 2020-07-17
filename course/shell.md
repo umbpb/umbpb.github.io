@@ -19,4 +19,5 @@ https://nbviewer.jupyter.org/github/Valkenborg/IML/blob/master/Exercise_sessions
 3. Writting and running scripts
 4. Processing the data
 5. Transfer data and scheduling
+
 [back](/)
