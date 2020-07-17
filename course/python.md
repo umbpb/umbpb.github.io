@@ -9,7 +9,9 @@ https://gitlab.erc.monash.edu.au/andrease/Python4Maths
 https://software-carpentry.org/lessons/index.html
 
 <h2> Lessons </h2>
-1. <a href="https://nbviewer.jupyter.org/github/umbpb/umbpb.github.io/blob/master/course/python/01.ipynb"> Basic data types and operations (numbers, strings)</a>, \#direct jupyter file: [1](./python/01.ipynb)
+1. <a href="https://nbviewer.jupyter.org/github/umbpb/umbpb.github.io/blob/master/course/python/01.ipynb"> Basic data types and operations (numbers, strings)</a>, 
+- \#direct jupyter file: [1](./python/01.ipynb), 
+- \#dynamic link: <a href="https://mybinder.org/v2/gh/umbpb/umbpb.github.io/master?filepath=course/python/01.ipynb">ta daa</a>
 2. String manipulation
 3. Data structures: Lists and Tuples
 4. Data structures (continued): dictionaries
