@@ -2,16 +2,14 @@
 layout: default
 permalink: /study/
 ---
-<h1> Case Studies</h1>
+# Case Studies
+...
 
-
-<h2> Lessons </h2>
+## Lessons
 1. Data wrangling
 2. Performing QC
 3. Variant Calling Workflow
-
-2.  Introduction to Biopython
-
-[back](/)
+4. Workflows with Next-Flow
+5. Using Biopython
 
 [back](/)
