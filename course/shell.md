@@ -3,7 +3,7 @@ layout: default
 permalink: /shell/
 --- 
 
-# Shell 
+# Using shell 
 ..
 
 ## lessons
@@ -14,4 +14,5 @@ permalink: /shell/
 5. Installation of Jupyter
 6. Using Docker / Singularity
 7. Working with Git?
+
 [back](/)

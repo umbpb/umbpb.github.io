@@ -3,7 +3,7 @@ layout: default
 permalink: /python/
 ---
 
-# PYTHON
+# Using Python
 ...
 
 ## Lessons

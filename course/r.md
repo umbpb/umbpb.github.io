@@ -4,7 +4,7 @@ permalink: /r/
 ---
 
 
-# R 
+# Using R 
 ...
 
 ## Lessons

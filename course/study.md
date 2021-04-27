@@ -2,7 +2,7 @@
 layout: default
 permalink: /study/
 ---
-# Case Studies
+# Case studies
 ...
 
 ## Lessons

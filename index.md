@@ -2,6 +2,7 @@
 layout: default
 permalink: /
 ---
+
  ## Welcome to the landing page of the coursework entitled “An Introduction to Bioinformatics and its Applications”
 
 The course is composed out of four modules object-orientated towards computational biology and bioinformatics:
